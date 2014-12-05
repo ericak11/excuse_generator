@@ -7,4 +7,7 @@ $( document ).ready(function(){
       $( this ).removeClass( "hover" );
     }
   );
+  $(".excuse_button").click(function(){
+    $( "#form_call" ).load( "/"+this.id );
+  });
 });
