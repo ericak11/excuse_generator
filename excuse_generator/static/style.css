@@ -24,7 +24,7 @@ body {
 }
 
 input[type=text] {
-  width: 200px;
+  width: 300px;
   border: 0px white solid;
   border-bottom: 2px black solid;
   text-align: center;
