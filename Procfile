@@ -1,1 +1,1 @@
-web: python setup.py
+web:  pserve production.ini
